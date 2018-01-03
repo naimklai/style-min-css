@@ -1,0 +1,310 @@
+<!--
+body{background: url(https://image.ibb.co/mLi02w/00hjh.jpg);color:#222;font:DroidKufi-Regular Trebuchet MS;font-size:normal;text-align:right;margin:0}
+a:link{color:#173c64;text-decoration:none}
+a:visited{color:#173c64;text-decoration:none}
+a:hover{color:#eee;text-decoration:none}
+a img{border-width:0}
+#headerpic{width:985px;color:#e16364;min-height:90px;overflow:hidden;position:relative;z-index:999;margin:0 auto}
+#header-wrapper{width:985px;margin:0 auto;float:center}
+#header-inner{background-position:center;margin-right:auto;margin-right:auto;float:center}
+#header{float:right;width:250px;text-align:right;color:#ddd;margin:0}
+#header2{float:right;width:730px;margin:10px 0 0;text-align:right;color:#555}
+.header .widget,.header2 .widget{margin:0 auto;padding:0px 0 0}
+#header h1, #header p{line-height:1.2em;text-transform:none;letter-spacing:.1em;font: bold 36px DroidKufi-Regular;text-shadow:2px 1px 1px #8931C8;margin:0 auto;padding:5px 5px .15em;color:#47F806;}
+#header a{text-decoration:none}
+#header a:hover{color:#333}
+#header .description{max-width:100%;text-transform:uppercase;letter-spacing:.01em;line-height:1.2em;font:12px DroidKufi-Regular;color:#aaa;margin:0 auto;padding:0 5px 5px}
+#header img{margin-right:auto;margin-right:auto}
+/* Navigation
+----------------------------------------------- */
+#nav{background-image:url(//4.bp.blogspot.com/-Qfv2CUXkZQE/UJOrNu3iNAI/AAAAAAAAGc8/wvy8sCPa8HA/s1600/main-menu-bg.png);background-repeat:repeat-x;height:52px;width:985px;position:relative;z-index:999;margin:0 auto;font:12px DroidKufi-Regular}
+#nav ul{height:52px;margin:0;padding:0}
+#nav li{position:relative;display:inline-block;float:right;border:1px solid #222;border-width:0 0 0 1px;height:47px;margin-top:5px}
+#nav li a{display:block;line-height:45px;height:45px;text-decoration:none;color:#D5D5D5;padding:0 15px;text-shadow:0 1px 1px black;border-right:1px solid #383838}
+#nav li:last-child a{border-right:0 none}
+#nav li a:hover{color:#fff}
+#nav ul.submenu li{float:none;width:960px;margin:0;border-bottom:1px solid #222;border-top:1px solid #383838;border-right:0 none;height:30px}
+#nav ul.submenu{display:none;padding:0;position:absolute;top:42px;width:180px;z-index:99;float:right;background:#2D2D2D!important;-webkit-box-shadow:0 3px 4px 1px rgba(0,0,0,0.2);box-shadow:0 3px 4px 1px rgba(0,0,0,0.2);-webkit-border-bottom-right-radius:3px;-webkit-border-bottom-right-radius:3px;-moz-border-bottom-right-radius:3px;-moz-border-bottom-right-radius:3px;border-bottom-right-radius:3px;border-bottom-right-radius:3px;height:auto}
+#nav ul.submenu.hidden{display:block;-khtml-opacity:0;-moz-opacity:0;opacity:0;visibility:hidden;-webkit-transition:all 0.5s ease 0s;-o-transition:all 0.5s ease 0s;transition:all 0.5s ease 0s;-moz-transition:all 0.5s ease 0s}
+#nav li:hover ul.submenu.hidden{-khtml-opacity:1;-moz-opacity:1;opacity:1;visibility:visible}
+#nav ul.submenu li:first-child{border-top:0 none}
+#nav ul.submenu a{height:30px;line-height:1em;padding:7px 10px}
+#nav ul.submenu a:hover{padding-right:15px}
+#nav li.mhome{border:0;margin-top:0;height:52px}
+#nav li.mhome a{height:52px;border-right:0 none;text-indent:-9999px;width:50px;background-color:#474747;background-image:url('//4.bp.blogspot.com/-BPpsKK84W2w/UJV6sFxkqDI/AAAAAAAAGgc/3TwsYkMwxsE/s1600/home+(1).png');background-repeat:no-repeat;background-position:50% 9px}
+#menuatas{color:#474747;background:#F1F1F1;padding:3px 0;border-bottom:1px solid #CCC}
+#menuatas a:hover{text-decoration:none}
+#ktuskrg{display:inline-block;height:18px;float:right;line-height:18px;padding:0 10px;border-right:1px solid #ACACAC}
+#navtop{display:inline-block;margin-right:5px;margin-top:5px}
+#navtop ul,#navtop li{padding:0;margin:0;list-style:none}
+#navtop li{float:right;height:18px;position:relative}
+#navtop li a{height:18px;padding:0 10px;line-height:18px;display:block}
+#navtop li.dgnsubtop{padding-right:10px;background-image:url(//4.bp.blogspot.com/-NTKXiugkHrs/UIeVQmEzDjI/AAAAAAAAGJ4/G92p5n8hgvY/s7/downarrow-dark.png);background-repeat:no-repeat;background-position:90% 50%}
+#navtop ul.sub-menu-top{display:none;position:absolute;width:140px;background:#F1F1F1;top:23px;-webkit-box-shadow:0 3px 4px 1px rgba(0,0,0,0.2);-moz-box-shadow:0 3px 4px 1px rgba(0,0,0,0.2);box-shadow:0 3px 4px 1px rgba(0,0,0,0.2);z-index:2}
+#navtop ul.sub-menu-top.hidden{display:block;-khtml-opacity:0;-moz-opacity:0;opacity:0;visibility:hidden;-webkit-transition:all 0.5s ease 0s;-o-transition:all 0.5s ease 0s;transition:all 0.5s ease 0s;-moz-transition:all 0.5s ease 0s}
+#navtop li:hover ul.sub-menu-top.hidden{-khtml-opacity:1;-moz-opacity:1;opacity:1;visibility:visible}
+#navtop ul.sub-menu-top li{width:960px;height:22px;border-bottom:1px solid white;border-top:1px solid lightGrey}
+#navtop ul.sub-menu-top li:first-child{border-top:0 none}
+#navtop ul.sub-menu-top a:hover{padding-right:15px}
+#ads-wrapper,#ads1-wrapper{padding-left:8px;width:980px;float:right;word-wrap:break-word;overflow:hidden}
+#mainpage-wrapper{width:980px;float:right;word-wrap:break-word;overflow:hidden;margin-right:3px;}
+#main-wrapper{width:980px;float:left;word-wrap:break-word;overflow:hidden;margin-top:10px;background:#FFF;-moz-border-radius:14px;-webkit-border-radius:14px;border-radius:14px;}
+#box-wrapper{width:318px;float:left;word-wrap:break-word;overflow:hidden}
+#box1-wrapper{padding-left:10px;width:318px;float:left;word-wrap:break-word;overflow:hidden}
+#box2-wrapper{padding-left:10px;width:318px;float:left;word-wrap:break-word;overflow:hidden}
+#box3-wrapper{padding-left:10px;width:970px;float:right;margin-bottom:10px;margin-right:5px;word-wrap:break-word;overflow:hidden}
+.ads .widget,.ads1 .widget,..box .widget,.box1 .widget{margin:0;padding:0 0 5px}
+.ads ul,.ads1 ul,.box ul,.box1 ul{list-style:none;margin:0;padding:0}
+.post{background:#ededed;margin:10px 5px 10px 8px;padding:10px 15px;border:5px dashed #52A774;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;text-shadow:2px 1px 1px #fff}
+.post h3{font:bold 30px DroidKufi-Regular;line-height:1.2em;color:#1a4d86;margin:.25em 0 0;padding:0 0 4px;text-align:center;}
+.post h3 a,.post h3 a:visited,.post h3 strong{color:#1a4d86}
+.post h3 strong,.post h3 a:hover{color:#222}
+.post-body{border-top:2px solid #1a4d86;font:16px DroidKufi-Regular;padding-top:10px;line-height:1.3em;margin:1em 0 .75em;}
+.post-body blockquote{line-height:1.3em}
+.post-footer{color:#666;text-transform:none;letter-spacing:.01em;font:12px DroidKufi-Regular;line-height:1.4em;margin:.75em 0}
+.comment-link{margin-left:.6em}
+.post blockquote{margin: 10px 10px 10px 20px;padding: 10px 15px 10px 15px;line-height: 1.6em;color: #111;background: #fff;border-left: 20px solid #52A774;text-shadow:none}
+.post blockquote p{margin:.75em 0}
+table{width:100%;border-collapse:collapse;border-spacing:0;border:1px solid #999;color:#333;margin:10px 0}
+table td,table th{text-align:left;border:1px solid #999;padding:.4em .8em}
+table th{text-transform:uppercase;font-weight:400;border:1px solid #999}
+table td{border:1px solid #999}
+table tr.even td{border:none}
+.comments{background:#ededed;padding:0 15px;border:5px solid #52A774;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:10px 5px 10px 8px;font:normal 12px DroidKufi-Regular}
+#comments h4{line-height:1.4em;text-transform:uppercase;color:#1a4d86;margin:1em 0}
+#comments-block{color:#222;line-height:1.4em;margin:1em 0 1.5em}
+#comments-block .comment-body{margin:.25em 0 0}
+#comments-block .comment-footer{line-height:1.4em;text-transform:none;letter-spacing:.01em;margin:-.25em 0 2em}
+#comments-block .comment-body p{margin:0 0 .75em}
+.deleted-comment{font-style:italic;color:gray}
+#blog-pager{clear:both;text-align:center;margin:10px 5px 0;padding:15px 0 0}
+#blog-pager-older-link a,#blog-pager-newer-link a,a.home-link{width:80px;text-align:center;display:inline-block;font:bold 12px DroidKufi-Regular;text-transform:none;margin:0 0px;padding:5px 5px;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px}
+.feed-links{clear:both;line-height:2.5em}
+.main .widget{margin:0 0 .5em;padding:0 0 .5em}
+#bot-wrapper {width:985px;float:left;word-wrap:break-word;overflow:hidden}
+#outer-wrapper{background:#fff;width:985px;text-align:right;font:#ddd;margin:10px auto;padding:0px;}
+.newsfea{background:url(https://lh6.googleusercontent.com/proxy/sxzox4QDpOxTCwDN6xgtjpilI3MbR3hnP1MQUZdAHVXmDFsX-B_hVbGWGLsUmf-kWSgWrLJ6GMucd9ECcSp4ZulC2OO1pmVICXFHUuNkgF0M6UxCpmpWDj5iJBMed4Ws-zXfbDSRRA=s0-d) no-repeat 0px 8px;margin:0px;padding:5px 0 5px 40px;font:14px DroidKufi-Regular;color:#1a4d86;text-transform:uppercase;border-bottom:2px solid #878889}
+.footer h2{font:14px DroidKufi-Regular;padding-bottom:5px;margin-bottom:5px;line-height:1.3em;text-transform:uppercase;color:#fff}
+.footer{color:#ddd;line-height:1.3em;font:normal 12px DroidKufi-Regular}
+.footer ul{list-style:none;color:#EAE9E8;margin:0;padding:0}
+.footer li{background:url(//4.bp.blogspot.com/-Bt0JYGRHfpk/T7ZpN5RNSQI/AAAAAAAAGJQ/zQtrWVZwgHA/s1600/bullet.png) no-repeat 1px 5px;font:normal 12px DroidKufi-Regular;color:#626262;text-indent:0;line-height:1.2em;margin:0;padding:2px 0 3px 17px}
+.footer a:link,.footer li a:visited{color:#aaa;text-decoration:none}
+.footer li a:hover{color:#fff}
+.footer .widget{margin:0 0 8px;padding:6px 0;text-shadow:1px 1px 2px #000}
+.footer .widget-content{padding:0 auto}
+.picfooter{background-color:#3519F0;background-image: -moz-linear-gradient(top,#3519F0 0,#3519F0 100%); background-image: -ms-linear-gradient(top,#3519F0 0,#3519F0 100%); background-image: -o-linear-gradient(top,#3519F0 0,#3519F0 100%); background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0,#3519F0),color-stop(100%,#3519F0)); background-image: -webkit-linear-gradient(top,#3519F0 0,#3519F0 100%); background-image: linear-gradient(to bottom,#3519F0 0,#3519F0 100%);border-bottom:7px solid #00FC03;border-top:6px solid #00FC03;width:979px;margin:0 3px;text-align:center;font:normal 12px DroidKufi-Regular}
+#footer-wrapper{width:965px;text-align:right;font:normal 12px DroidKufi-Regular;margin:0 auto;padding:0 10px 10px}
+#footer1-wrapper{width:315px;float:left;word-wrap:break-word;overflow:hidden}
+#footer2-wrapper{margin-left:10px;width:310px;float:left;word-wrap:break-word;overflow:hidden;padding:0 10px}
+#footer3-wrapper{width:300px;float:right;word-wrap:break-word;overflow:hidden}
+.creditwrap{background:#111;width:979px;margin:0 3px 3px;padding:0 auto;border-top:1px solid #444;text-shadow:1px 1px 2px #000}
+.credit{width:959px;line-height:1.6em;text-align:center;font-family:DroidKufi-Regular;font-size:11px;color:#ccc;overflow:hidden;clear:both;margin:0 auto;padding:10px 0}
+.credit a:link,.credit a:visited{color:#ccc;text-decoration:none}
+.credit a:hover{color:#fff;text-decoration:none}
+.menuku-wrap{background:url(//3.bp.blogspot.com/-faP6Fn9WqLo/UPkslzJ5PSI/AAAAAAAAJfI/pJghtOCFU3s/s1600/menuku.png) repeat-x top;height:54px;width:100%;}
+.menuku{font:normal 12px DroidKufi-Regular;line-height:normal;width:985px;text-transform:none;color:#f1f1f1;text-decoration:none;margin:0 auto;padding:0 auto}
+.menuku ul{margin:0;padding:0}
+.menuku li{list-style:none;color:#b69786;float:right;display:inline;position:relative;margin:0;padding:0}
+.menuku li a{background:url(//3.bp.blogspot.com/-C7cjkp-xQeE/UPktW40dq8I/AAAAAAAAJfQ/Brd4yRErBYA/s1600/mnubg.png) repeat-x top;display:block;text-decoration:none;font-weight:700;color:#ccc;text-shadow:1px 1px 2px #111;outline:none;margin:10px 4px 8px;padding:8px 16px;border:1px solid #111}
+.menuku li a:hover{background:#333;-moz-box-shadow: inset 2px 2px 2px #151515;-webkit-box-shadow: inset 2px 2px 2px #151515;box-shadow: inset 2px 2px 2px #151515;}
+.menuku li ul{position:absolute;z-index:10;right:0;top:100%;height:30px;width:170px;display:none;margin:0;padding:0;-webkit-box-shadow:0 2px 2px rgba(0,0,0,0.6)}
+.menuku li ul a{margin:0;font:12px DroidKufi-Regular;background:#2c2c2c;border-left:none;border:none;display:block;padding:7px 10px;-moz-box-shadow:0 2px 2px rgba(0,0,0,0.6)}
+.menuku li ul a:hover{background:#1b1b1b;color:#fff}
+.menuku li ul li{float:none;display:block;width:auto}
+.menuku li ul ul{top:0;right:100%}
+.menuku li a:hover,.menuku ul li a:hover{color:#eee}
+#related-posts{float:right;width:auto;}
+#related-posts h1{background:none;color:#1a4d86;font:20px DroidKufi-Regular;padding:3px}
+#related-posts .maskolis_img {padding:0px;width:106px;height:90px;transition:all 400ms ease-in-out;-webkit-transition:all 400ms ease-in-out;-moz-transition:all 400ms ease-in-out;-o-transition:all 400ms ease-in-out;-ms-transition:all 400ms ease-in-out;border:1px solid #999;border:1px solid #a6c8e1;background:#fff;-moz-border-radius:14px;-webkit-border-radius:14px;border-radius:14px}
+#related-posts .maskolis_img:hover{opacity:.7;filter:alpha(opacity=70);-moz-opacity:.7;-khtml-opacity:.7}
+#maskolis h1{background:url(https://lh4.googleusercontent.com/proxy/ksxvqos_UpWOkqm56JLJpuCTfciJHyY-HkjRUfbWn_aygWGZyjccUjgF81MacpM2jFtKJqBwbUbOmAdmJW4DhhnOiHITTaR8Zj61dybJk_l8CzfgRmpYvkACOeX0bWShf6klL30=s0-d) no-repeat 5px 5px;font:14px DroidKufi-Regular;margin:0px;padding:5px 5px 5px 33px;text-transform:uppercase;}
+#maskolis h1 a,#maskolis h1 a:visited{color:#1a4d86}
+#maskolis h1 a:hover{color:#666}
+#maskolis {background:#ededed;overflow:hidden;padding-bottom:10px;border:5px dashed #52A774}
+#maskolis .col_maskolis {width:139px;height:120px;float:right;padding:0;margin:2px 5px 8px;text-align:center;}
+#maskolis .maskolis_img {border:1px solid #52A774;background:#fff;-moz-border-radius:14px;-webkit-border-radius:14px;border-radius:14px;margin:3px 3px 0;width:135px;height:100px;transition:all 400ms ease-in-out;-webkit-transition:all 400ms ease-in-out;-moz-transition:all 400ms ease-in-out;-o-transition:all 400ms ease-in-out;-ms-transition:all 400ms ease-in-out}
+#maskolis .posttitle {height:20px;border:0 none;line-height:6px;margin:0 0px 5px;padding:2px}
+#maskolis .posttitle a{color:#111;font:12px DroidKufi-Regular}
+#maskolis .posttitle a:hover {color:#1a4d86}
+.jogos{background:#ededed;height:128px;overflow:hidden;position:relative;width:190px;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:5px;padding:10px}
+.jogosbg{background:url(//3.bp.blogspot.com/-muN-7YzlBB0/T2BddBOU7PI/AAAAAAAAAQc/HUtK0nhzvTI/semi_transparent.png) repeat scroll 0 0 transparent;bottom:0;color:#FFF;height:43px;margin-bottom:10px;position:absolute;width:190px;padding:0}
+.jogos img{display:block;width:190px;height:128px;border:1px solid #a6c8e1;background:#fff;-moz-border-radius:14px;-webkit-border-radius:14px;border-radius:14px}
+h2.articletitle{color:#fff;font:14px DroidKufi-Regular;line-height:20px;margin:0;padding:2px 2px 2px 5px}
+h2.articletitle a{color:#fff}
+h2.articletitle a:hover{color:#fecb01}
+.label-size{
+margin:0;
+padding:0;
+position:relative;
+}
+.label-size a{
+float:right;
+height:24px;
+line-height:24px;
+position:relative;
+font-size:12px;
+margin-bottom: 9px;
+margin-left:20px;
+padding:0 10px 0 12px;
+background:#8AAF40;
+color:#fff;
+text-decoration:none;
+-moz-border-radius-bottomright:4px;
+-webkit-border-bottom-right-radius:4px;
+border-bottom-right-radius:4px;
+-moz-border-radius-topright:4px;
+-webkit-border-top-right-radius:4px;
+border-top-right-radius:4px;
+}
+.label-size a:before{
+content:"";
+float:left;
+position:absolute;
+top:0;
+left:-12px;
+width:0;
+height:0;
+border-color:transparent #0089e0 transparent transparent;
+border-style:solid;
+border-width:12px 12px 12px 0;
+}
+.label-size a:after{
+content:"";
+position:absolute;
+top:10px;
+left:0;
+float:left;
+width:4px;
+height:4px;
+-moz-border-radius:2px;
+-webkit-border-radius:2px;
+border-radius:2px;
+background:#fff;
+-moz-box-shadow:-1px -1px 2px #004977;
+-webkit-box-shadow:-1px -1px 2px #004977;
+box-shadow:-1px -1px 2px #004977;
+}
+.label-size a:hover{background:#99E1AF;}
+.label-size a:hover:before{border-color:transparent #555 transparent transparent;}
+@font-face {
+font-family: 'DroidKufi-Regular';
+src: url('https://lh5.googleusercontent.com/proxy/XHuTZa6_5BCy1V7AkKXhB0ndtz6rTDXZj66y41KcaYadQ4eJ8Rc80OLC5vxmbOVFOMCgIx0KOKdCe4q1CAr6NnFs2o1I6Fgh2K1ukfjb=s0-d');
+src: url('https://lh5.googleusercontent.com/proxy/XHuTZa6_5BCy1V7AkKXhB0ndtz6rTDXZj66y41KcaYadQ4eJ8Rc80OLC5vxmbOVFOMCgIx0KOKdCe4q1CAr6NnFs2o1I6Fgh2K1ukfjb=s0-d') format('embedded-opentype'),
+url('https://lh6.googleusercontent.com/proxy/ejeeWFzr2qGdqfKAuXLVyS-PIOyE7be0CqPmYrWvCK0G6_K9mF3HCCL6UCg3L8BRyddaLV2_KQf7ckpySjkskrP_ZpXhRc7oWJnLY3o2aw=s0-d') format('woff'),
+url('https://lh6.googleusercontent.com/proxy/TTvbqhlSUUhTqGzPmbdziXTKehmsn_6OOeqhRrJb8yFjnF6PG6mDMWjfnbHleM8aWtqcOxCq9AnUtwXobkE7f-dVVOMUGq9hM9q-W7IA=s0-d') format('truetype'); }
+@font-face {
+font-family: 'DroidKufi-Regular';
+src: url('https://lh5.googleusercontent.com/proxy/XHuTZa6_5BCy1V7AkKXhB0ndtz6rTDXZj66y41KcaYadQ4eJ8Rc80OLC5vxmbOVFOMCgIx0KOKdCe4q1CAr6NnFs2o1I6Fgh2K1ukfjb=s0-d');
+src: url('https://lh5.googleusercontent.com/proxy/XHuTZa6_5BCy1V7AkKXhB0ndtz6rTDXZj66y41KcaYadQ4eJ8Rc80OLC5vxmbOVFOMCgIx0KOKdCe4q1CAr6NnFs2o1I6Fgh2K1ukfjb=s0-d') format('embedded-opentype'),
+url('https://lh6.googleusercontent.com/proxy/ejeeWFzr2qGdqfKAuXLVyS-PIOyE7be0CqPmYrWvCK0G6_K9mF3HCCL6UCg3L8BRyddaLV2_KQf7ckpySjkskrP_ZpXhRc7oWJnLY3o2aw=s0-d') format('woff'),
+url('https://lh6.googleusercontent.com/proxy/TTvbqhlSUUhTqGzPmbdziXTKehmsn_6OOeqhRrJb8yFjnF6PG6mDMWjfnbHleM8aWtqcOxCq9AnUtwXobkE7f-dVVOMUGq9hM9q-W7IA=s0-d') format('truetype'); }
+#Label1 li {
+float: right;
+background:#fafafa url(https://lh4.googleusercontent.com/-Wia36bo2IjI/UOr3lcKA5mI/AAAAAAAAAAw/GudFMFe7xL8/s16/folder.png)no-repeat scroll 121px 9px;
+padding: 5px 25px 7px 9px;
+font-size: 12px;
+margin: 0 4px 10px 0;
+display: inline-block;
+border: 1px solid #d7d7d7;
+-webkit-border-radius:5px;
+-moz-border-radius:5px;
+border-radius:5px;
+color:#aeaeae;
+width:108px;
+}
+#Label1 li a{color:#000;}
+#Label1 li:hover { background:#ffffff url(https://lh4.googleusercontent.com/-Wia36bo2IjI/UOr3lcKA5mI/AAAAAAAAAAw/GudFMFe7xL8/s16/folder.png)no-repeat scroll 121px 9px;}
+
+-->
+<style>
+.topwrap {position: relative;}
+h2.post-title {margin-top: 0px;line-height: 14px;font-size: 12px;text-align:center;}
+h2.post-title a, h2.post-title a:visited {font:11px DroidKufi-Regular;color: #111;}
+h2.post-title a:hover {color: #1a4d86;}
+.post {background: none;float: right;width: 146px;margin:0 7px 5px 4px;height: 130px;border:none;padding:0;text-shadow:none}
+#main-wrapper{padding:0 5px;margin:8px;width:950px;border:5px solid #5931DB;background:#ededed}
+.post-body {border-top:none;background:none;margin:0;color: #0e2e52;font:normal 11px DroidKufi-Regular;line-height: 18px;}
+h3.post-title{display:none;}
+.post img{background:#52A774;padding:1px;border:1px solid #a6c8e1;background:#fff;-moz-border-radius:14px;-webkit-border-radius:14px;border-radius:14px}
+.post-footer{display:none;}
+</style>
+<script type="text/javascript">
+//<![CDATA[
+var thumbnail_mode = "right" ;
+var summary_noimg = 60;
+var summary_img = 16;
+var indent = 5;
+
+function stripHtmlTags(s, max) {
+	return s.replace(/<.*?>/ig, '').split(/\s+/).slice(0, max - 1).join(' ')
+}
+
+function getSummaryLikeWP(id) {
+	return document.getElementById(id).innerHTML.split(/<!--\s*more\s*-->/)[0];
+}
+
+function getSummaryImproved(post, max) {
+	var re = /<.*?>/gi
+	var re2 = /<br.*?>/gi
+	var re3 = /(<\/{1}p>)|(<\/{1}div>)/gi
+	var re4 = /(<style.*?\/{1}style>)|(<script.*?\/{1}script>)|(<table.*?\/{1}table>)|(<form.*?\/{1}form>)|(<code.*?\/{1}code>)|(<pre.*?\/{1}pre>)/gi
+	post = post.replace(re4, '')
+	post = post.replace(re3, '<br /> ').split(re2)
+	for (var i = 0; i < post.length; i++) {
+		post[i] = post[i].replace(re, '');
+	}
+	var post2 = new Array();
+	for (var i in post) {
+		//if(post[i]!='' && post[i]!=' ' && post[i] != '\n') post2.push(post[i]);
+		if (/[a-zA-Z0-9]/.test(post[i])) post2.push(post[i]);
+	}
+	var s = "";
+	var indentBlank = "";
+	for (var i = 0; i < indent; i++) {
+		indentBlank += " ";
+	}
+	if (post2.join('<br/>').split(' ').length < max - 1) {
+		s = post2.join(indentBlank + ' <br/>');
+	} else {
+		var i = 0;
+		while (s.split(' ').length < max) {
+			s += indentBlank + ' ' + post2[i] + '<br/>';
+			i++;
+		}
+	}
+	return s;
+}
+
+function createSummaryAndThumb(pID, title, url, date, comment) {
+	var posturl = url;
+	var title = title;
+	var date = date;
+	var comment = comment;
+	var div = document.getElementById(pID);
+	var content = div.innerHTML;
+	if (/<!--\s*more\s*-->/.test(content)) {
+		div.innerHTML = getSummaryLikeWP(pID);
+		div.style.display = "block";
+	} else {
+
+		var imgtag = "";
+		var img = div.getElementsByTagName("img");
+		var summ = summary_noimg;
+		if (img.length <= 1) {
+			imgtag = '<div class="post-thumb"><a title="' + title + '" href="' + posturl + '"><img width="100%" height="95px" class="thumbnail" src="http://2.bp.blogspot.com/-uitX7ROPtTU/Tyv-G4NA_uI/AAAAAAAAFBY/NcWLPVnYEnU/s1600/no+image.jpg"/></a></div>';
+			summ = summary_img;
+		}
+		if (img.length >= 1) {
+			imgtag = '<div class="post-thumb"><a title="' + title + '" href="' + posturl + '"><img width="100%" height="95px" class="thumbnail" src="' + img[0].src + '"/></a></div>';
+			summ = summary_img;
+		}
+		var postlink = '';
+		var summary = '<div class="cbt-post-summary"><div class="topwrap">' + imgtag + '<div class="wrapbg">' + postlink + '</div></div><h2 class="post-title"><a title="' + title + '" href="' + posturl + '">' + title + '</a></h2>';
+		div.innerHTML = summary;
+		div.style.display = "block";
+	}
+}
+
+
+//]]>
+</script>
